@@ -1,0 +1,249 @@
+Sample No. 1, geometric HCT =  37.000 %, MCV =  87.7 fL
+
+HCT from residence times:
+Interval  1:  38.326 %
+Interval  2:  40.774 %
+Interval  3:  39.636 %
+Interval  4:  37.014 %
+Interval  5:  36.115 %
+Interval  6:  34.985 %
+Interval  7:  34.546 %
+Interval  8:  35.537 %
+Interval  9:  37.264 %
+Interval 10:  38.997 %
+Interval 11:  39.708 %
+Interval 12:  40.004 %
+Interval 13:  39.914 %
+Interval 14:  39.422 %
+Interval 15:  37.496 %
+Interval 16:  36.165 %
+Interval 17:  36.243 %
+Interval 18:  36.141 %
+Interval 19:  35.550 %
+Interval 20:  36.365 %
+Interval 21:  35.134 %
+Interval 22:  35.727 %
+Interval 23:  35.020 %
+Interval 24:  35.686 %
+Interval 25:  36.543 %
+Interval 26:  37.547 %
+Interval 27:  38.301 %
+Interval 28:  37.101 %
+Interval 29:  36.273 %
+Interval 30:  37.037 %
+Average HCT from residence times =  37.337 %
+
+Found 698 particles starting in Plasma ... as expected
+Expected  intra-cellular pre-exchange lifetime = 12.000000 ms
+Simulated intra-cellular pre-exchange lifetime = 13.807184 ms
+Simulated extra-cellular pre-exchange lifetime = 27.726128 ms
+
+--------------------------------------------------------
+
+Sample No. 2, geometric HCT =  39.000 %, MCV =  87.7 fL
+
+HCT from residence times:
+Interval  1:  40.467 %
+Interval  2:  39.415 %
+Interval  3:  37.591 %
+Interval  4:  40.066 %
+Interval  5:  41.188 %
+Interval  6:  40.982 %
+Interval  7:  40.880 %
+Interval  8:  39.770 %
+Interval  9:  39.036 %
+Interval 10:  38.490 %
+Interval 11:  37.803 %
+Interval 12:  38.333 %
+Interval 13:  39.753 %
+Interval 14:  40.953 %
+Interval 15:  39.727 %
+Interval 16:  40.891 %
+Interval 17:  41.949 %
+Interval 18:  41.831 %
+Interval 19:  41.846 %
+Interval 20:  41.010 %
+Interval 21:  40.873 %
+Interval 22:  38.775 %
+Interval 23:  37.925 %
+Interval 24:  37.432 %
+Interval 25:  37.867 %
+Interval 26:  37.174 %
+Interval 27:  37.258 %
+Interval 28:  37.122 %
+Interval 29:  36.536 %
+Interval 30:  37.100 %
+Average HCT from residence times =  39.313 %
+
+Found 680 particles starting in Plasma ... as expected
+Expected  intra-cellular pre-exchange lifetime = 12.000000 ms
+Simulated intra-cellular pre-exchange lifetime = 12.293829 ms
+Simulated extra-cellular pre-exchange lifetime = 25.414656 ms
+
+--------------------------------------------------------
+
+Sample No. 3, geometric HCT =  41.000 %, MCV =  87.7 fL
+
+HCT from residence times:
+Interval  1:  39.137 %
+Interval  2:  40.950 %
+Interval  3:  40.553 %
+Interval  4:  39.258 %
+Interval  5:  38.716 %
+Interval  6:  39.321 %
+Interval  7:  41.603 %
+Interval  8:  42.200 %
+Interval  9:  41.878 %
+Interval 10:  42.256 %
+Interval 11:  42.519 %
+Interval 12:  42.894 %
+Interval 13:  43.350 %
+Interval 14:  42.185 %
+Interval 15:  40.170 %
+Interval 16:  40.892 %
+Interval 17:  41.685 %
+Interval 18:  39.550 %
+Interval 19:  38.860 %
+Interval 20:  39.872 %
+Interval 21:  40.869 %
+Interval 22:  41.360 %
+Interval 23:  41.053 %
+Interval 24:  40.443 %
+Interval 25:  40.012 %
+Interval 26:  39.986 %
+Interval 27:  39.985 %
+Interval 28:  39.795 %
+Interval 29:  38.900 %
+Interval 30:  38.628 %
+Average HCT from residence times =  40.331 %
+
+Found 661 particles starting in Plasma ... as expected
+Expected  intra-cellular pre-exchange lifetime = 12.000000 ms
+Simulated intra-cellular pre-exchange lifetime = 10.764849 ms
+Simulated extra-cellular pre-exchange lifetime = 23.291157 ms
+
+--------------------------------------------------------
+
+Sample No. 4, geometric HCT =  43.000 %, MCV =  87.7 fL
+
+HCT from residence times:
+Interval  1:  41.922 %
+Interval  2:  40.768 %
+Interval  3:  41.748 %
+Interval  4:  42.926 %
+Interval  5:  42.884 %
+Interval  6:  42.443 %
+Interval  7:  41.545 %
+Interval  8:  40.170 %
+Interval  9:  41.380 %
+Interval 10:  41.574 %
+Interval 11:  41.496 %
+Interval 12:  41.742 %
+Interval 13:  41.256 %
+Interval 14:  39.621 %
+Interval 15:  40.354 %
+Interval 16:  42.199 %
+Interval 17:  44.676 %
+Interval 18:  44.266 %
+Interval 19:  43.815 %
+Interval 20:  43.208 %
+Interval 21:  43.513 %
+Interval 22:  43.715 %
+Interval 23:  43.198 %
+Interval 24:  43.604 %
+Interval 25:  42.778 %
+Interval 26:  42.432 %
+Interval 27:  41.893 %
+Interval 28:  42.736 %
+Interval 29:  43.679 %
+Interval 30:  43.238 %
+Average HCT from residence times =  42.152 %
+
+Found 643 particles starting in Plasma ... as expected
+Expected  intra-cellular pre-exchange lifetime = 12.000000 ms
+Simulated intra-cellular pre-exchange lifetime = 12.033332 ms
+Simulated extra-cellular pre-exchange lifetime = 22.984939 ms
+
+--------------------------------------------------------
+
+Sample No. 5, geometric HCT =  45.000 %, MCV =  87.7 fL
+
+HCT from residence times:
+Interval  1:  44.480 %
+Interval  2:  45.714 %
+Interval  3:  47.484 %
+Interval  4:  45.964 %
+Interval  5:  45.564 %
+Interval  6:  43.962 %
+Interval  7:  43.604 %
+Interval  8:  44.493 %
+Interval  9:  44.723 %
+Interval 10:  45.510 %
+Interval 11:  46.057 %
+Interval 12:  45.352 %
+Interval 13:  45.049 %
+Interval 14:  45.663 %
+Interval 15:  46.245 %
+Interval 16:  46.054 %
+Interval 17:  45.636 %
+Interval 18:  44.723 %
+Interval 19:  43.132 %
+Interval 20:  43.619 %
+Interval 21:  44.161 %
+Interval 22:  43.473 %
+Interval 23:  43.944 %
+Interval 24:  44.465 %
+Interval 25:  44.600 %
+Interval 26:  44.909 %
+Interval 27:  44.816 %
+Interval 28:  43.064 %
+Interval 29:  44.309 %
+Interval 30:  45.653 %
+Average HCT from residence times =  45.210 %
+
+Found 624 particles starting in Plasma ... as expected
+Expected  intra-cellular pre-exchange lifetime = 12.000000 ms
+Simulated intra-cellular pre-exchange lifetime = 12.324795 ms
+Simulated extra-cellular pre-exchange lifetime = 20.072310 ms
+
+--------------------------------------------------------
+
+Sample No. 6, geometric HCT =  47.000 %, MCV =  87.7 fL
+
+HCT from residence times:
+Interval  1:  47.932 %
+Interval  2:  49.207 %
+Interval  3:  49.220 %
+Interval  4:  47.339 %
+Interval  5:  47.618 %
+Interval  6:  47.574 %
+Interval  7:  46.319 %
+Interval  8:  45.998 %
+Interval  9:  46.395 %
+Interval 10:  47.497 %
+Interval 11:  48.096 %
+Interval 12:  48.237 %
+Interval 13:  47.739 %
+Interval 14:  47.456 %
+Interval 15:  47.256 %
+Interval 16:  48.491 %
+Interval 17:  47.959 %
+Interval 18:  47.996 %
+Interval 19:  47.620 %
+Interval 20:  46.990 %
+Interval 21:  46.760 %
+Interval 22:  47.662 %
+Interval 23:  48.302 %
+Interval 24:  47.810 %
+Interval 25:  46.526 %
+Interval 26:  46.502 %
+Interval 27:  45.987 %
+Interval 28:  47.844 %
+Interval 29:  46.563 %
+Interval 30:  48.805 %
+Average HCT from residence times =  47.749 %
+
+Found 605 particles starting in Plasma ... as expected
+Expected  intra-cellular pre-exchange lifetime = 12.000000 ms
+Simulated intra-cellular pre-exchange lifetime = 14.211182 ms
+Simulated extra-cellular pre-exchange lifetime = 19.699921 ms
